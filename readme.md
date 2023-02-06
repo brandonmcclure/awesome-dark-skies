@@ -1,6 +1,6 @@
 # Awesome Dark Skys
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/brandonmcclure/awesome-night-skys) [![RSS](https://img.shields.io/badge/Subscribe-RSS-blue.svg)](https://github.com/brandonmcclure/awesome-night-skys/main.atom)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/brandonmcclure/awesome-night-skys) [![RSS](https://img.shields.io/badge/Subscribe-RSS-blue.svg)](https://github.com/brandonmcclure/awesome-night-skys/commits/main.atom)
 
 A curated list of [awesome](https://github.com/sindresorhus/awesome/blob/main/awesome.md) tools to increase dark skys. This repo currently reflects my limited perspective, and is therefore north america, and english focused. I would love for your issues and pull requests about how we can make this a more awesome resource for all!
 
@@ -28,3 +28,5 @@ These are some organizations that are affiliated with the goal of darker skys. P
 ## (Citizen?) Science
 
 I do not have any items for this section due to my current ignorance of this topic in general. I would like to add resources to this section that make it easier for scientists to collaborate with each other, and with citizens in general. Are you doing science in this area and want to share? I want to hear about it!
+
+
